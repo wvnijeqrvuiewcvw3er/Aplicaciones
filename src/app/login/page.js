@@ -24,6 +24,8 @@ export default function Register(email, password, displayName) {
         
     }
 
+    
+
     function onRegister(event) {
         //const email = state.email;
         //const password = state.password;
